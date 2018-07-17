@@ -16,10 +16,14 @@ Press 'q' to quit.
 
 Basically there is a word list from which it takes the words ('words.txt') and displays the word. Try and guess the word in your mind if not hit enter and it will show the meaning.
 
-There is a "recent words" list which shows the words list of all the words you have come across.
+There is a "recent" list which shows the words list of all the words you have come across.
 
 please refer to te screenshots and let me know how i can impove it.
 
-![alt text](https://github.com/siddesh001/Time_left-application-python/blob/master/Screenshot%20from%202018-07-09%2017-48-11.png)
+Running the program :
+![alt text](https://github.com/siddesh001/Play_GRE/blob/master/Screenshots/Run%20main.png)
 
-![alt text](https://github.com/siddesh001/Time_left-application-python/blob/master/Screenshot%20from%202018-07-09%2017-48-11.png)    
+
+Recent and quitting the program:
+
+![alt text](https://github.com/siddesh001/Play_GRE/blob/master/Screenshots/Recent_%26_quit.png)    
