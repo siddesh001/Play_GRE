@@ -30,7 +30,7 @@ input_c=True
 while(input_c):
     
     input_c=input()
-    if input_c=='c':
+    if input_c=='q':
         break
     else:
         input_c=True

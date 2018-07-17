@@ -18,4 +18,8 @@ Basically there is a word list from which it takes the words ('words.txt') and d
 
 There is a "recent words" list which shows the words list of all the words you have come across.
 
-please refer to te screenshots and let me know how i can impove it.    
+please refer to te screenshots and let me know how i can impove it.
+
+![alt text](https://github.com/siddesh001/Time_left-application-python/blob/master/Screenshot%20from%202018-07-09%2017-48-11.png)
+
+![alt text](https://github.com/siddesh001/Time_left-application-python/blob/master/Screenshot%20from%202018-07-09%2017-48-11.png)    
